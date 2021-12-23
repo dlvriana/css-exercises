@@ -1,0 +1,19 @@
+.paragraph{
+  background-color: #FFC0CB;
+  font-family: Verdana, sans-serif;
+}
+
+#div1{
+  color: #87CEFA;
+  font-size: 36px;
+}
+
+.large{
+  font-size: 24px;
+}
+
+#div2{
+  background-color: #98FB98;
+  font-size: 24px;
+  font-weight: bold;
+}
